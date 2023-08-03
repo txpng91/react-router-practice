@@ -39,12 +39,16 @@ body > div {
 }
 
 .red-container {
-  background-color: #b05f6d;
+  background-image: url('https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   color: white;
 }
 
 .blue-container {
-  background-color: #275db3;
+  background-image: url('https://wallpapercave.com/wp/wp4338070.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   color: white;
 }
 
